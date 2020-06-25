@@ -21,29 +21,30 @@ whichwill match topic name mentioned by the web user and will cluster the
 keywords and willprovide topic related information to the user. Web users will get
 information quickly forrespective topic they are searching for.
 Advantages
- This system takes co occurrence of terms into account which gives best
+1. This system takes co occurrence of terms into account which gives best
 result.
- This system will help the web users to easily search information for
+2. This system will help the web users to easily search information for
 particular topic.
- Web users will get information quickly for respective topic they are
+3. Web users will get information quickly for respective topic they are
 searching for.
-Feasibility Study
+
+1. Feasibility Study
 This system will extract keywords which occur often from collection of documents
 and will cluster the words using clustering algorithm and system will detect topic
 from a collection of documents.
- Economic Feasibility
+2 Economic Feasibility
 This system will help the web users to easily search information for
 particular topic. This system will be useful for web crawlers. This
 system will provide economic benefits for many websites. It includes
 quantification and identification of all the benefits expected.
- Operational Feasibility
+3 Operational Feasibility
 This system is more reliable, maintainable, affordable and producible.
 These are the parameters which are considered during design and
 development of this project. During design and development phase of
 this project there was appropriate and timely application of
 engineering and management efforts to meet the previously mentioned
 parameters.
- Technical Feasibility
+4 Technical Feasibility
 The back end of this project is PHP Wamp server which stores
 parameters related to this project. There are basic requirement of
 hardware to run this application. This application will be online so this
