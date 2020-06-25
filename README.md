@@ -32,11 +32,13 @@ searching for.
 This system will extract keywords which occur often from collection of documents
 and will cluster the words using clustering algorithm and system will detect topic
 from a collection of documents.
+
 2 Economic Feasibility
 This system will help the web users to easily search information for
 particular topic. This system will be useful for web crawlers. This
 system will provide economic benefits for many websites. It includes
 quantification and identification of all the benefits expected.
+
 3 Operational Feasibility
 This system is more reliable, maintainable, affordable and producible.
 These are the parameters which are considered during design and
@@ -44,12 +46,18 @@ development of this project. During design and development phase of
 this project there was appropriate and timely application of
 engineering and management efforts to meet the previously mentioned
 parameters.
+
 4 Technical Feasibility
 The back end of this project is PHP Wamp server which stores
 parameters related to this project. There are basic requirement of
 hardware to run this application. This application will be online so this
 application can be accessed by using any device like (Personal
 Computers, Laptop and with some hand held devices).
+
+
+
+
+
 Module Description :
 This project is “Topic Detection Using Keyword Clustring” .The Website is named
 as “ GO DETECTCTION : SEARCH ON THE BRINK” . This project is basically
